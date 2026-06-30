@@ -1,0 +1,1 @@
+# Static-Structural-Analysis-of-Connecting-Rod-using-ANSYS-
